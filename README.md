@@ -6,19 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=S-l-a-s-h-y-y-y&label=Profile%20views&color=0e75b6&style=flat" alt="S-l-a-s-h-y-y-y" /> 
 </p>
 
-### What's My Current TimePass
-
-- 🔭 Exploring new tech
-- 🎮 Gaming
-- 🎨 Designing cool stuff
-
-### Where to Find Me
-
-- <img src="https://img.icons8.com/color/48/discord-logo.png" width="20"/> [Discord](https://jrtechs.me/)
-- <img src="https://img.icons8.com/color/48/youtube-play.png" width="20"/> [YouTube](https://www.youtube.com/c/JrtechsNet)
-- <img src="https://img.icons8.com/color/48/instagram-new.png" width="20"/> [Instagram](https://www.instagram.com/yourprofile)
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-l-a-s-h-y-y-y&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-l-a-s-h-y-y-y&layout=compact&theme=dark" alt="Top Languages" />
@@ -26,4 +13,4 @@
 
 ---
 
-<h4 align="center">"Shaping shadows, breaking enigmas, crafting the unknown, that shatters the known."</h4>
+<h4 align="center">"Cyaa, later!"</h4>
