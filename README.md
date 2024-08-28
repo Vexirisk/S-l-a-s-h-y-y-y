@@ -11,6 +11,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-l-a-s-h-y-y-y&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
-
 <h4 align="center">"Cyaa, later!"</h4>
